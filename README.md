@@ -4,7 +4,7 @@
 
 복습 및 기록을 위하여 R 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/chonny1210/chonny1210/blob/main/R%20%EA%B7%B8%EB%A6%BC.png" width="600" height="400">
+<img src="https://github.com/chonny1210/R_study/blob/main/R%20%EA%B7%B8%EB%A6%BC.png" width="600" height="400">
 
 &nbsp; 
 
